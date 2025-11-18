@@ -29,8 +29,6 @@ I support businesses and individuals by handling administrative tasks, managing 
 
 ---
 
-## 📈 GitHub Stats  
-![Cynthia’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Cynthia0005&show_icons=true&theme=radical)
 
 ---
 
