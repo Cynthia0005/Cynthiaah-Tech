@@ -6,5 +6,8 @@ Virtual Assistant | Customer Service | Cybersecurity Enthusiast
 - Google Workspace  
 - Canva  
 - Excel / Sheets  
-![Cynthia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cynthiaah-Tech&show_icons=true)
+- ClickUp
+- Slack
+- Hubspot
+- Mailchimp
 
