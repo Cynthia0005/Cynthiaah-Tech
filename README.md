@@ -10,4 +10,5 @@ Virtual Assistant | Customer Service | Cybersecurity Enthusiast
 - Slack
 - Hubspot
 - Mailchimp
+  
 
